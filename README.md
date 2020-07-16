@@ -22,6 +22,6 @@ Here is my blogs and wiki page, which can help you learning more🌱
 - 😄Blogs: http://www.abookworm.site
 - ⚡Wiki: https://wiki.abookworm.site
 
-### Contact me 📫
+### Contact 📫
 And free to contact me if you have any question about this🤔
 - Email ：chenmoyuya@outlook.com
