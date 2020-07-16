@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my github repository, hope to help you.
+
+And 
+
 <!--
 **abookworm-site/abookworm-site** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### Contact me 📫
+
+- Location：ShenZhen China
+- Email ：chenmoyuya@outlook.com
+
+
+#### About me
+Free to do things and just follow my heart. Certainly, I’m freedom with the rules🙂
