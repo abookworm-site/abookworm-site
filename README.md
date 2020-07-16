@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 -->
 
 ### Moreover 🔭
-Here is my blogs and wiki page, which can help you learning more🌱
-- 😄Blogs: http://www.abookworm.site
+Here is my blogs and wiki page, which can help you learning more
+- 🌱Blogs: http://www.abookworm.site
 - ⚡Wiki: https://wiki.abookworm.site
 
 ### Contact 📫
-And free to contact me if you have any question about this🤔
-- Email ：chenmoyuya@outlook.com
+And free to contact me if you have any question about this
+- 🤔Email ：chenmoyuya@outlook.com
