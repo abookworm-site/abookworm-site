@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### Moreover 🔭
-The following is my blogs and wiki page, which can help you learning more
+The following is my blogs and wiki page, which can help you learn more
 - 🌱Blogs: http://www.abookworm.site
 - ⚡Wiki: https://wiki.abookworm.site
 
